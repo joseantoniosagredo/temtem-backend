@@ -1,4 +1,3 @@
-import mongoose from 'mongoose';
 import { typeModel } from '../database';
 
 import typesStructure = require("../types/type_structure");
